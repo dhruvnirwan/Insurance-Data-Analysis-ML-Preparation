@@ -43,3 +43,13 @@ This project explores the **Insurance dataset**, performing detailed **Explorato
 - Scikit-learn
 
 ---
+
+## 🙋‍♂️ About Me
+
+**👨‍💼 Dhruv Nirwan**  
+Data Analyst | Power BI | SQL | Excel | Python | Snowflake | Cloud (AWS, Azure, GCP)  | Google Collab | Prompt Engineering
+
+🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-nirwan)  
+📧 dhruvnirwan836@gmail.com  
+📂 [GitHub: dhruvnirwan](https://github.com/dhruvnirwan)
+
